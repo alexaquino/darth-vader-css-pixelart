@@ -1,4 +1,4 @@
-# darth-vader-css-pixelart
+# Darth Vader CSS Pixelart
 
 Pixel art with Pure CSS - Star Wars { Darth Vader }
 
