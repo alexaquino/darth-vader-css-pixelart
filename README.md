@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - Star Wars { Darth Vader }
 
-![_Captura_de_Tela_2018-08-22_às_23.43.16](/uploads/cca9c021d8b058b633a05b7d85b1a881/_Captura_de_Tela_2018-08-22_às_23.43.16.png)
+![_Captura_de_Tela_2018-08-22_às_23 43 16](https://user-images.githubusercontent.com/12216463/59978655-02cb2e00-95b5-11e9-8768-b8e901764bcf.png)
 
 ### Directory Structure
 
